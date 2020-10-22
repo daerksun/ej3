@@ -1,0 +1,53 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Wed Oct 21 20:21:22 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                 RES_VECT       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                MAIN_PROG       code   0x000003    program   0x000056
+.config_2007_BUILD/DEFAULT/DEBUG/EJ3.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00002d      
+                            0x002007    0x002007      
+            47 out of 4358 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+          _MAIN_PROG_0014   0x000017    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+          _MAIN_PROG_001F   0x000022    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                   inicio   0x00000a    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                    loopj   0x00001c    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                    loopk   0x00001e    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                      reg   0x000012    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                        t   0x00000f    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                      tmp   0x00001a    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                     tmp1   0x000013    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                   inicio   0x00000a    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                        t   0x00000f    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                      reg   0x000012    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                     tmp1   0x000013    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+          _MAIN_PROG_0014   0x000017    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                      tmp   0x00001a    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                    loopj   0x00001c    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+                    loopk   0x00001e    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+          _MAIN_PROG_001F   0x000022    program     static C:\Users\yo\MPLABXProjects\Ex1ej3.X\ej3.asm
+
+

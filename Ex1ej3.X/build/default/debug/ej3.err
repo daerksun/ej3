@@ -1,0 +1,9 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V5.35\MPASMX\P16F628A.INC 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 2 : Found directive in column 1. (__CONFIG)
+Warning[203] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 5 : Found opcode in column 1. (GOTO)
+Message[302] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 41 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 53 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 55 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 62 : Using default destination of 1 (file).
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\EX1EJ3.X\EJ3.ASM 66 : Found directive in column 1. (END)
